@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\halil\\source\\repos\\Bookcase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\wwwroot\\css\\bookcase.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\wwwroot\\css\\bookcase.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\models\\kitap\\kitapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\models\\kitap\\kitapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\models\\kitap\\kitappostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\models\\kitap\\kitappostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\models\\kitap\\ikitapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\models\\kitap\\ikitapmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|c:\\users\\halil\\source\\repos\\bookcase\\bookcase\\models\\kitap\\kitapresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2312445F-F5C4-40C6-B00B-45BEE86FB121}|Bookcase\\Bookcase.csproj|solutionrelative:bookcase\\models\\kitap\\kitapresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bookcase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bookcase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAGsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T12:02:39.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bookcase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bookcase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T14:05:29.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bookcase.css",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bookcase.css",
+              "RelativeDocumentMoniker": "Bookcase\\wwwroot\\css\\bookcase.css",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\css\\bookcase.css",
+              "RelativeToolTip": "Bookcase\\wwwroot\\css\\bookcase.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-27T13:59:36.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js",
+              "RelativeDocumentMoniker": "Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js",
+              "RelativeToolTip": "Bookcase\\wwwroot\\js\\bootstrap\\bootstrap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-27T13:59:21.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kitap.js",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js",
+              "RelativeDocumentMoniker": "Bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js",
+              "RelativeToolTip": "Bookcase\\wwwroot\\js\\modul\\kitap\\kitap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-20T12:19:56.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bookcase\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bookcase\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:09:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KitapModel.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\KitapModel.cs",
+              "RelativeDocumentMoniker": "Bookcase\\Models\\Kitap\\KitapModel.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\KitapModel.cs",
+              "RelativeToolTip": "Bookcase\\Models\\Kitap\\KitapModel.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAJ4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:06:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KitapPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\KitapPostModel.cs",
+              "RelativeDocumentMoniker": "Bookcase\\Models\\Kitap\\KitapPostModel.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\KitapPostModel.cs",
+              "RelativeToolTip": "Bookcase\\Models\\Kitap\\KitapPostModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:06:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KitapResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\KitapResultModel.cs",
+              "RelativeDocumentMoniker": "Bookcase\\Models\\Kitap\\KitapResultModel.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\KitapResultModel.cs",
+              "RelativeToolTip": "Bookcase\\Models\\Kitap\\KitapResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:07:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IKitapModel.cs",
+              "DocumentMoniker": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\IKitapModel.cs",
+              "RelativeDocumentMoniker": "Bookcase\\Models\\Kitap\\IKitapModel.cs",
+              "ToolTip": "C:\\Users\\halil\\source\\repos\\Bookcase\\Bookcase\\Models\\Kitap\\IKitapModel.cs",
+              "RelativeToolTip": "Bookcase\\Models\\Kitap\\IKitapModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:05:49.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
